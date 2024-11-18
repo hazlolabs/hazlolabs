@@ -50,7 +50,7 @@ sections:
     actions: []
     text: ''
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: 'Proven Results:'
     items:
       - type: FeaturedItem
         title: I'm Fast
