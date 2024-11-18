@@ -53,7 +53,7 @@ sections:
     title: Why Hazlo Labs?
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Accelerated Growth
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
