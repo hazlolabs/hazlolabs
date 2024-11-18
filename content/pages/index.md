@@ -50,7 +50,7 @@ sections:
     actions: []
     text: ''
   - type: FeaturedItemsSection
-    title: 'Proven Results:'
+    title: Why Hazlo Labs?
     items:
       - type: FeaturedItem
         title: I'm Fast
