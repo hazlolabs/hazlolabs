@@ -96,4 +96,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      **Send you pitch deck to**
+      [**brian@hazlolabs.com**](mailto:brian@hazlolabs.com?subject=Pitch%20Deck)****
 ---
