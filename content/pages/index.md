@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Accelerated Growth
-        subtitle: ''
+        subtitle: asdf
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
