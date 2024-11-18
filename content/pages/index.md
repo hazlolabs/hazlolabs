@@ -56,14 +56,7 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
-      fields:
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
+      fields: []
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
