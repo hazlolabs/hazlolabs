@@ -128,6 +128,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: 'Proven Results:'
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
