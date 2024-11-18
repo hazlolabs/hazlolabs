@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: WE take your startup from idea to revenuE.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      While cash flow is critical in the early stages of any business, not all
+      money is the same. You need people who understand and believe in your
+      vision—partners who know how to bring it to life and turn it into a
+      thriving, scalable brand.
     styles:
       self:
         height: auto
