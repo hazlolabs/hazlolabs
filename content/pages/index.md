@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: WE take your startup from idea to revenuE.
+    title: >-
+      HAZLO LABS can take your startup from idea to revenuE & BEYOND with our
+      unique investment, incubation and acceleration approach.
     subtitle: >-
       While cash flow is critical in the early stages of any business, not all
       money is the same. You need people who understand and believe in your
