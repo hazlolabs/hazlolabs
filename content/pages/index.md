@@ -105,13 +105,6 @@ sections:
           Our team are all experienced and successful startup founders and
           marketers and we know first hand that *identifying your ideal
           customers and driving accelerated growth is NOT an accident!*
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: Apply Now
