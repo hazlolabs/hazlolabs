@@ -58,7 +58,7 @@ sections:
       - type: Button
         label: Apply Now
         altText: ''
-        url: /
+        url: mail
         showIcon: true
         icon: arrowRight
         iconPosition: right
