@@ -45,7 +45,7 @@ sections:
     text: |
       We are your partner in the development and growth of your startup.
   - type: HeroSection
-    title: If you have an idea with a tech based solution we want to hear from you!
+    title: Do you have a problem with a tech based solution ?
     subtitle: ''
     actions:
       - type: Button
