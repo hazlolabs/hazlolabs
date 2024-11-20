@@ -49,7 +49,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: $1.5M in revenue 8 weeks from launch
+        label: £1.5M in revenue 8 weeks from launch
         url: ''
       - type: Label
         label: $6M in revenue in 8 Months
