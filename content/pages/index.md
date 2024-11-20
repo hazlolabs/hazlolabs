@@ -60,12 +60,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/HazloLabs Tech Startups.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
