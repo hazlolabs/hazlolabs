@@ -108,7 +108,8 @@ sections:
       - type: Button
         label: Apply Now
         altText: ''
-        url: 'mailto:brian@hazlolabs.com?subject=Let me introduce YOUR COMPANY NAME'
+        url: >-
+          mailto:brian@hazlolabs.com?subject=Let%20me%20introduce%20YOUR%20COMPANY%20NAME
         showIcon: true
         icon: arrowRight
         iconPosition: right
