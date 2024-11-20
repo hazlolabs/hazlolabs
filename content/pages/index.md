@@ -136,7 +136,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: Apply Now
+            url: 'mailto:brian@hazlolabs.com?subject=Let me introduce COMPANY NAME'
             showIcon: false
             icon: arrowRight
             iconPosition: right
