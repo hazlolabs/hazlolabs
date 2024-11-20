@@ -115,10 +115,19 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Our team are all experienced and successful startup founders and
+          marketers and we know first hand that *identifying your ideal
+          customers and driving accelerated growth is NOT an accident!*
+
+
+          \*\*Building Brand Identity & Marketing
+
+          \*\*Our team are experts in connecting with the core of you as a
+          founder and your companies mission, the true "why" of your startup and
+          turning this into a brand that not only communicates this to the wider
+          market but also attracts the right teams to build a company culture
+          that enhances your mission.
         featuredImage:
           type: ImageBlock
           url: >-
