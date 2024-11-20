@@ -45,9 +45,7 @@ sections:
     text: |
       We are your partner in the development and growth of your startup.
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: If you have an idea with a tech based solution we want to hear from you!
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
