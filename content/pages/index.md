@@ -42,7 +42,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: ''
+    text: |
+      We are your partner in the development and growth of your startup.
   - type: CtaSection
     title: Let's do this
     text: >
