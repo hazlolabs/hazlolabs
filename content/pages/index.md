@@ -49,7 +49,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: $1.5M in revenue
+        label: '$1.5M in revenue '
         url: ''
       - type: Label
         label: React
