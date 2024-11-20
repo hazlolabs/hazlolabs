@@ -128,13 +128,6 @@ sections:
           this into a brand that not only communicates this to the wider market
           but also attracts the right teams to build a company culture that
           enhances your mission.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
