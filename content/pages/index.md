@@ -86,6 +86,12 @@ sections:
     text: >
       If your vision pushes boundaries and solves real problems using
       technology, we want to connect.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: CtaSection
     title: Let's do this
     text: >
