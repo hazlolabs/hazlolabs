@@ -168,14 +168,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "Got an interesting startup? Tell us more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields: []
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
     styles:
       self:
         height: auto
