@@ -52,10 +52,10 @@ sections:
         label: $1.5M in revenue 8 weeks from launch
         url: ''
       - type: Label
-        label: '150,000 customers in 8 months'
+        label: Microsoft Office
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: '150,000 customers in 8 months'
         url: ''
       - type: Label
         label: Next.js
