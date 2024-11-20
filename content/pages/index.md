@@ -64,9 +64,6 @@ sections:
         label: '50 Million monthly impressions '
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
       - type: Label
