@@ -51,7 +51,7 @@ sections:
       finance, trading, or any other tech-driven solution. 
     actions:
       - type: Button
-        label: Hire me
+        label: Apply Now
         altText: ''
         url: /
         showIcon: true
