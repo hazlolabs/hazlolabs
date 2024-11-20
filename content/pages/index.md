@@ -16,7 +16,7 @@ sections:
     title: ARe YOU READY to take your startup from idea to revenuE & BEYOND?
     subtitle: >-
       Hazlo Labs is the more than an investor... We are a partner in your
-      development & growth.
+      development and growth.
     styles:
       self:
         height: auto
