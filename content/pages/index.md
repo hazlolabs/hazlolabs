@@ -134,7 +134,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Apply Now
             altText: ''
             url: 'mailto:brian@hazlolabs.com?subject=Let me introduce COMPANY NAME'
             showIcon: false
