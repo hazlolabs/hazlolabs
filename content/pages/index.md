@@ -143,10 +143,12 @@ sections:
       - type: FeaturedItem
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our team are experts in connecting with the core of you as a founder
+          and your companies mission, the true "why" of your startup and turning
+          this into a brand that not only communicates this to the wider market
+          but also attracts the right teams to build a company culture that
+          enhances your mission.
         featuredImage:
           type: ImageBlock
           url: >-
