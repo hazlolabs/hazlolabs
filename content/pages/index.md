@@ -89,6 +89,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      If you are an innovator using tech to solve real problems across the
+      spectrum—w
   - type: CtaSection
     title: Let's do this
     text: >
