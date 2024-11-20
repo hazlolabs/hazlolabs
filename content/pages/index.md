@@ -48,9 +48,7 @@ sections:
     title: >-
       This pre revenue FinTech startup did some impressive figures with our
       help.
-    subtitle: >-
-      This pre revenue FinTech startup did some impressive figures with our
-      help.
+    subtitle: ''
     items:
       - type: Label
         label: £1.5M in revenue 8 weeks from launch
