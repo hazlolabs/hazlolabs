@@ -84,13 +84,6 @@ sections:
         subtitle: ''
         text: |
           We help you to refine and enhance your product and business model.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: Apply Now
