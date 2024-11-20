@@ -89,12 +89,8 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
-      If you are an innovator using tech to solve real problems across the
-      spectrum
-
-
-      If your vision pushes boundaries and solves real problems, we want to
-      connect.
+      If your vision pushes boundaries and solves real problems using
+      technology, we want to connect.
   - type: CtaSection
     title: Let's do this
     text: >
