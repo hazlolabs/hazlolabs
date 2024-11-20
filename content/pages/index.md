@@ -62,7 +62,10 @@ sections:
     title: >-
       This pre revenue FinTech startup did some impressive figures with our
       help.
-    subtitle: ''
+    subtitle: >-
+      We came on board 3 months pre launch and assisted with all aspects of
+      building, launching and scaling this brand into a market leader in it's
+      sector within the first year of operations.
     items:
       - type: Label
         label: £1.5M in revenue 8 weeks from launch
