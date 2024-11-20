@@ -114,10 +114,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Finding early adopters & Accelerating Growth
-        subtitle: >-
-          Our team are all experienced and successful startup founders and
-          marketers and we know first hand that identifying your ideal customers
-          and driving accelerated growth is NOT an accident!
+        subtitle: ''
         text: >
           Our team are all experienced and successful startup founders and
           marketers and we know first hand that *identifying your ideal
