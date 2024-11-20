@@ -114,7 +114,12 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Finding early adopters & Accelerating Growth
-        subtitle: ''
+        subtitle: >-
+          **Building Brand Identity & Marketing**Our team are experts in
+          connecting with the core of you as a founder and your companies
+          mission, the true "why" of your startup and turning this into a brand
+          that not only communicates this to the wider market but also attracts
+          the right teams to build a company culture that enhances your mission.
         text: >
           Our team are all experienced and successful startup founders and
           marketers and we know first hand that *identifying your ideal
