@@ -45,7 +45,7 @@ sections:
     text: |
       We are your partner in the development and growth of your startup.
   - type: LabelsSection
-    title: Skills
+    title: What about the numbers?
     subtitle: The section subtitle
     items:
       - type: Label
