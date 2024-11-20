@@ -156,9 +156,13 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      While cash flow is critical in the early stages of any business, not all
+      money is the same.
+
+
+      You need people who understand and believe in your vision... A true
+      partner.
     actions:
       - type: Button
         label: Try it now
