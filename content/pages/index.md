@@ -58,7 +58,7 @@ sections:
         label: '150,000 customers in 8 months'
         url: ''
       - type: Label
-        label: Next.js
+        label: '30,000+ Social Media followers'
         url: ''
       - type: Label
         label: Netlify
