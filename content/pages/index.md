@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: Do you have a idea for a tech startup?
+    title: Do you have an idea for a tech startup?
     subtitle: >-
       Whether you’re building in fintech, SaaS, blockchain, the creator economy,
       finance, trading, or any other tech-driven solution. 
