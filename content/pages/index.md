@@ -52,7 +52,7 @@ sections:
         label: $1.5M in revenue 8 weeks from launch
         url: ''
       - type: Label
-        label: React
+        label: '150,000 users in 8 months'
         url: ''
       - type: Label
         label: Microsoft Office
