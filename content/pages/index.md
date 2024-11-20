@@ -81,6 +81,49 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: CtaSection
+    title: Let's do this
+    text: >
+      While cash flow is critical in the early stages of any business, not all
+      money is the same.
+
+
+      You need people who understand and believe in your vision...
+
+
+      Hazlo Labs has a unique and hands on approach that might just be what your
+      startup NEEDS.
+    actions:
+      - type: Button
+        label: Apply Now
+        altText: ''
+        url: 'mailto:brian@hazlolabs.com?subject=Let me introduce YOUR COMPANY NAME'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: FeaturedItemsSection
     title: What makes us different?
     items:
@@ -190,49 +233,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    title: Let's do this
-    text: >
-      While cash flow is critical in the early stages of any business, not all
-      money is the same.
-
-
-      You need people who understand and believe in your vision...
-
-
-      Hazlo Labs has a unique and hands on approach that might just be what your
-      startup NEEDS.
-    actions:
-      - type: Button
-        label: Apply Now
-        altText: ''
-        url: 'mailto:brian@hazlolabs.com?subject=Let me introduce YOUR COMPANY NAME'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
