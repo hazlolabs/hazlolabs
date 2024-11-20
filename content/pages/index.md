@@ -46,7 +46,7 @@ sections:
       We are your partner in the development and growth of your startup.
   - type: LabelsSection
     title: What about the numbers?
-    subtitle: The section subtitle
+    subtitle: The pre revenue FinTech startup
     items:
       - type: Label
         label: £1.5M in revenue 8 weeks from launch
