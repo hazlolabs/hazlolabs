@@ -74,7 +74,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Apply now
             altText: ''
             url: mailto
             showIcon: true
