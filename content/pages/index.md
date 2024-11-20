@@ -65,13 +65,6 @@ sections:
           With experience mentoring startups across tech, finance, and creative
           industries, we offer hands-on guidance to every stage of business
           development.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: Apply now
