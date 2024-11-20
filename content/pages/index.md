@@ -56,7 +56,7 @@ sections:
       partner.
     actions:
       - type: Button
-        label: Try it now
+        label: Apply Now
         altText: ''
         url: /
         showIcon: true
