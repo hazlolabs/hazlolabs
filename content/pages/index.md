@@ -100,7 +100,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Apply Now
             altText: ''
             url: /
             showIcon: true
