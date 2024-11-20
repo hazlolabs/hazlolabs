@@ -61,7 +61,7 @@ sections:
         label: '30,000+ Social Media followers'
         url: ''
       - type: Label
-        label: Netlify
+        label: '50 Million monthly impressions '
         url: ''
       - type: Label
         label: Pancakes
