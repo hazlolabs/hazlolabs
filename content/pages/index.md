@@ -113,7 +113,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Finding early adopters & Accelerating Growth
         subtitle: ''
         text: >
           Our team are all experienced and successful startup founders and
