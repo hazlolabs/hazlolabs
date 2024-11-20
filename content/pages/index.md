@@ -59,7 +59,7 @@ sections:
     title: What makes us different?
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Strategic Mentorship
         subtitle: ''
         text: >
           With experience mentoring startups across tech, finance, and creative
