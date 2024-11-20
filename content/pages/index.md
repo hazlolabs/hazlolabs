@@ -89,24 +89,8 @@ sections:
       - type: FeaturedItem
         title: Product market fit
         subtitle: ''
-        text: >
-          We help you to refine and enhance your product and business models
-
-
-          **Finding early adopters & Accelerating Growth**
-
-          Our team are all experienced and successful startup founders and
-          marketers and we know first hand that *identifying your ideal
-          customers and driving accelerated growth is NOT an accident!*
-
-
-          \*\*Building Brand Identity & Marketing
-
-          \*\*Our team are experts in connecting with the core of you as a
-          founder and your companies mission, the true "why" of your startup and
-          turning this into a brand that not only communicates this to the wider
-          market but also attracts the right teams to build a company culture
-          that enhances your mission.
+        text: |
+          We help you to refine and enhance your product and business model.
         featuredImage:
           type: ImageBlock
           url: >-
