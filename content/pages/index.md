@@ -88,7 +88,7 @@ sections:
       technology, we want to connect.
     media:
       type: ImageBlock
-      url: /images/HazloLabs Tech Startups Idea.png
+      url: /images/HazloLabs Tech Startups Ideas.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
