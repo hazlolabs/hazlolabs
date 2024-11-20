@@ -52,8 +52,11 @@ sections:
       money is the same.
 
 
-      You need people who understand and believe in your vision... A true
-      partner.
+      You need people who understand and believe in your vision...
+
+
+      Hazlo Labs has a unique and hands on approach that might just be what your
+      startup NEEDS.
     actions:
       - type: Button
         label: Apply Now
