@@ -76,7 +76,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: mailto
             showIcon: true
             icon: arrowRight
             iconPosition: right
