@@ -109,7 +109,7 @@ sections:
           - type: Button
             label: Apply Now
             altText: ''
-            url: /
+            url: 'mailto:brian@hazlolabs.com?subject=Let me introduce COMPANY NAME'
             showIcon: true
             icon: arrowRight
             iconPosition: right
