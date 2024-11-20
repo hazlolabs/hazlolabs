@@ -44,43 +44,6 @@ sections:
     actions: []
     text: |
       We are your partner in the development and growth of your startup.
-  - type: LabelsSection
-    title: >-
-      This pre revenue FinTech startup did some impressive figures with our
-      help.
-    subtitle: ''
-    items:
-      - type: Label
-        label: £1.5M in revenue 8 weeks from launch
-        url: ''
-      - type: Label
-        label: £6M in revenue in 8 Months
-        url: ''
-      - type: Label
-        label: '150,000 customers in 8 months'
-        url: ''
-      - type: Label
-        label: '30,000+ Social Media followers'
-        url: ''
-      - type: Label
-        label: '50 Million monthly impressions '
-        url: ''
-    colors: colors-d
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: CtaSection
     title: Let's do this
     text: >
@@ -124,6 +87,43 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: LabelsSection
+    title: >-
+      This pre revenue FinTech startup did some impressive figures with our
+      help.
+    subtitle: ''
+    items:
+      - type: Label
+        label: £1.5M in revenue 8 weeks from launch
+        url: ''
+      - type: Label
+        label: £6M in revenue in 8 Months
+        url: ''
+      - type: Label
+        label: '150,000 customers in 8 months'
+        url: ''
+      - type: Label
+        label: '30,000+ Social Media followers'
+        url: ''
+      - type: Label
+        label: '50 Million monthly impressions '
+        url: ''
+    colors: colors-d
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title: What makes us different?
     items:
