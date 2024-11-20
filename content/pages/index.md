@@ -87,7 +87,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Product market fit
         subtitle: ''
         text: >
           We help you to refine and enhance your product and business models
