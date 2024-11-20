@@ -65,7 +65,7 @@ sections:
       - type: Label
         label: '50 Million monthly impressions '
         url: ''
-    colors: colors-d
+    colors: colors-f
     elementId: ''
     styles:
       self:
