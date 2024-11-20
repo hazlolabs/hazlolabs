@@ -141,7 +141,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Building Brand Identity & Marketing
         subtitle: ''
         text: >
           Our team are experts in connecting with the core of you as a founder
