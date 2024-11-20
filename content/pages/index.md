@@ -45,7 +45,9 @@ sections:
     text: |
       We are your partner in the development and growth of your startup.
   - type: LabelsSection
-    title: What about the numbers?
+    title: >-
+      This pre revenue FinTech startup did some impressive figures with our
+      help.
     subtitle: >-
       This pre revenue FinTech startup did some impressive figures with our
       help.
