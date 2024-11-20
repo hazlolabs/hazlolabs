@@ -86,7 +86,7 @@ sections:
       also attracts the right teams to build a company culture that enhances
       your mission.
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: What makes us different?
     items:
       - type: FeaturedItem
         title: I'm Fast
