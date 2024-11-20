@@ -47,10 +47,9 @@ sections:
   - type: HeroSection
     title: Do you have a idea for a tech startup?
     subtitle: >-
-      We’re eager to hear from innovators across the spectrum—whether you’re
-      building in fintech, SaaS, blockchain, the creator economy, finance,
-      trading, or any tech-driven solution. If your vision pushes boundaries and
-      solves real problems, we want to connect.
+      Whether you’re building in fintech, SaaS, blockchain, the creator economy,
+      finance, trading, or any other tech-driven solution. If your vision pushes
+      boundaries and solves real problems, we want to connect.
     actions:
       - type: Button
         label: Hire me
