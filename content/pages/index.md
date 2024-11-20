@@ -52,7 +52,7 @@ sections:
         label: £1.5M in revenue 8 weeks from launch
         url: ''
       - type: Label
-        label: $6M in revenue in 8 Months
+        label: £6M in revenue in 8 Months
         url: ''
       - type: Label
         label: '150,000 customers in 8 months'
