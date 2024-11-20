@@ -44,47 +44,17 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
+    text: >+
       While cash flow is critical in the early stages of any business, not all
-      money is the same. 
+      money is the same.
 
 
-      You need people who understand and believe in your vision... 
+      You need people who understand and believe in your vision...
 
 
       True partners who know how to bring the vision to life and turn it into a
       thriving, scalable brand.
 
-
-      ***WHAT MAKES US DIFFERENT?***
-
-
-      **Strategic Mentorship:**
-
-      With experience mentoring startups across tech, finance, and creative
-      industries, we offer hands-on guidance to every stage of business
-      development.
-
-
-      **Product market fit:**
-
-      We help you to refine and enhance your product and business models
-
-
-      **Finding early adopters & Accelerating Growth**
-
-      Our team are all experienced and successful startup founders and marketers
-      and we know first hand that *identifying your ideal customers and driving
-      accelerated growth is NOT an accident!*
-
-
-      \*\*Building Brand Identity & Marketing
-
-      \*\*Our team are experts in connecting with the core of you as a founder
-      and your companies mission, the true "why" of your startup and turning
-      this into a brand that not only communicates this to the wider market but
-      also attracts the right teams to build a company culture that enhances
-      your mission.
   - type: FeaturedItemsSection
     title: What makes us different?
     items:
