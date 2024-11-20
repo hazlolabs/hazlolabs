@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: ARe YOU READY to take your startup from idea to revenuE & BEYOND?
     subtitle: >-
-      With our unique investment, incubation and acceleration approach.While
+      With our unique investment, incubation and acceleration approach. While
       cash flow is critical in the early stages of any business, not all money
       is the same. You need people who understand and believe in your
       vision—partners who know how to bring it to life and turn it into a
