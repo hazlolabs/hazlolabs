@@ -95,40 +95,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: ARe YOU READY to take your startup from idea to revenuE & BEYOND?
-    subtitle: 'Hazlo Labs is the more than an investor... '
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    text: |
-      We are your partner in the development and growth of your startup.
   - type: FeaturedItemsSection
     title: What makes us different?
     items:
@@ -242,6 +208,40 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: ARe YOU READY to take your startup from idea to revenuE & BEYOND?
+    subtitle: 'Hazlo Labs is the more than an investor... '
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    text: |
+      We are your partner in the development and growth of your startup.
   - type: CtaSection
     title: Let's do this
     text: >
