@@ -52,9 +52,9 @@ sections:
         title: Strategic Mentorship
         subtitle: ''
         text: >
-          With experience mentoring startups across tech, finance, and creative
-          industries, we offer hands-on guidance to every stage of business
-          development.
+          With over a decade of experience mentoring startups across tech,
+          finance, and creative industries, we offer hands-on guidance at every
+          stage of the development of your startup.
         actions:
           - type: Button
             label: Apply now
