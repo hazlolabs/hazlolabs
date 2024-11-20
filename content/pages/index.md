@@ -46,7 +46,9 @@ sections:
       We are your partner in the development and growth of your startup.
   - type: HeroSection
     title: Do you have a idea for a tech startup?
-    subtitle: ''
+    subtitle: >-
+      Whether you’re building in fintech, SaaS, blockchain, the creator economy,
+      finance, trading, or any other tech-driven solution. 
     actions:
       - type: Button
         label: Hire me
