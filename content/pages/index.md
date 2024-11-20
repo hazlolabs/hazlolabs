@@ -44,17 +44,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      While cash flow is critical in the early stages of any business, not all
-      money is the same.
-
-
-      You need people who understand and believe in your vision...
-
-
-      True partners who know how to bring the vision to life and turn it into a
-      thriving, scalable brand.
-
+    text: ''
   - type: FeaturedItemsSection
     title: What makes us different?
     items:
