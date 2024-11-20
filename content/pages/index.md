@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ARe YOU READY to take your startup from idea to revenuE & BEYOND?
-    subtitle: >-
-      Hazlo Labs is the more than an investor... We are a partner in your
-      development and growth.
+    subtitle: 'Hazlo Labs is the more than an investor... '
     styles:
       self:
         height: auto
