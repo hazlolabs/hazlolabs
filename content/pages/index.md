@@ -159,7 +159,7 @@ sections:
             altText: ''
             url: >-
               mailto:brian@hazlolabs.com?subject=Let%20me%20introduce%20YOUR%20COMPANY%20NAME
-              target="_blank
+              target="_blank"
             showIcon: true
             icon: arrowRight
             iconPosition: right
