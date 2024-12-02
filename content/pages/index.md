@@ -184,7 +184,7 @@ sections:
             altText: ''
             url: >-
               mailto:brian@hazlolabs.com?subject=Let%20me%20introduce%20YOUR%20COMPANY%20NAME
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
