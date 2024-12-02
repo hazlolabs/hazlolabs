@@ -322,5 +322,6 @@ sections:
         textAlign: left
     text: >
       **Send you pitch deck to**
-      [**brian@hazlolabs.com**](mailto:brian@hazlolabs.com?subject=Let%20me%20introduce%20YOUR%20COMPANY%20NAME)
+      [**brian@hazlolabs.com**](<mailto:brian@hazlolabs.com?subject=Let%20me%20introduce%20YOUR%20COMPANY%20NAME
+      target="_blank>)
 ---
